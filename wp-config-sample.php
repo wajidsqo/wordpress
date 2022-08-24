@@ -37,8 +37,8 @@ define( 'DB_CHARSET', 'utf8' );
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
-define('WP_HOME','https://aarsh.rtd.squareops.co.in/');
-define('WP_SITEURL','https://aarsh.rtd.squareops.co.in/');
+define('WP_HOME','https://wajid.rtd.squareops.co.in/');
+define('WP_SITEURL','https://wajid.rtd.squareops.co.in/');
 if (strpos($_SERVER['HTTP_X_FORWARDED_PROTO'], 'https') !== false)   $_SERVER['HTTPS']='on';
 
 /**#@+
